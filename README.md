@@ -1,7 +1,3 @@
-# Weather-Application
-
-Sure, here's a sample README file for your Weather Application:
-
 # Weather Application
 
 The Weather Application is a simple web-based tool that allows users to retrieve weather information for a specific city. Users can enter the name of a city, press Enter, and the application will display relevant weather details, such as temperature, weather condition, and other related information.
